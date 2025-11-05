@@ -1,0 +1,62 @@
+.search{
+    padding: 8px 8px;
+    font-size: 20px;
+    border-width: 1px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.google{
+  width: 400px;
+  padding: 12px 18px;
+  font-size: 16px;
+  border: none;               /* Removes border */
+  border-radius: 24px;        /* Makes the edges rounded */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2); /* Adds shadow */
+  outline: none;              /* Removes blue outline when clicked */
+  transition: box-shadow 0.3s ease;
+}
+.google:focus {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Slightly stronger shadow when focused */
+}
+.email{
+        
+}
+.text{
+    border-color: black;
+    border-width: 1px;
+}
+.by{
+    font-size: small;
+}
+.agree{
+    background-color: blue;
+    color: white;
+    border: none;
+    width: 500px;
+    padding: 26px;
+    /* padding: 10px 10px; */
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+.img{
+    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+    vertical-align: middle;
+    border-radius: 50px;
+}
+.what{
+    border: none;
+    box-shadow: none;
+    vertical-align: middle;
+    font-size: 20px;
+}
+.tweet{
+    padding: 10px 10px;
+    border: none;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    font-size: 10px;
+    vertical-align: middle;
+}
