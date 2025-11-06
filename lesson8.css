@@ -1,0 +1,105 @@
+.name{
+    font-size: 15px;
+    margin-bottom: 5px;
+    display: block;
+}
+.email{
+    margin-top: 5px;
+    font-size: 15px;
+    display: block;
+}
+.thank{
+    width: 300px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.yes{
+    display: inline;
+}
+.no{
+    display: inline;
+    margin-right: 100px;
+}
+.g{
+    color: pink;
+}
+.google{
+    margin-bottom: 20px;
+    font-size: 18px;
+    /* padding: 10px; */
+    width: 350px;
+    border-radius: 50px;
+    border-width: 1px;
+    box-shadow: none;
+}
+.first{
+    margin-bottom: 2px;
+    color: gray;
+    width: 90px;
+    padding: 5px 5px;
+    border-radius: 8px;
+    border-width: 1px;
+    box-shadow: none;
+}
+.sur{
+    color: gray;
+    width: 90px;
+    padding: 5px 5px;
+    border-width: 1px;
+    border-radius: 6px;
+}
+.email{
+    border-width: 1px;
+    color: gray;
+    padding: 5px 5px;
+    width: 250px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+.late{
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 260px;
+    padding: 20px 20px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
+}
+.request{
+    font-family: Arial;
+    color: black;
+    font-size: xx-large;
+    font-size: 30px;
+}
+.enter{
+    padding: 5px 5px;
+    width: 200px;
+    color: gray;
+    display: block;
+    margin-bottom: 5px;
+}
+.destination{
+    margin-top: 3px;
+    width: 200px;
+    padding: 5px 5px;
+    display: block;
+    margin-bottom: 10px;
+}
+.now{
+    background-color: black;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    display: inline;
+    width: 100px;
+    padding: 10px 10px;
+}
+.schedule{
+    color: black;
+    background-color: rgb(164, 163, 163);
+    border: none;
+    width: 150px;
+    padding: 10px 10px;
+}
