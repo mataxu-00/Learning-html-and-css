@@ -1,0 +1,114 @@
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: #4caf50;
+    margin-top: 10px;
+}
+.q{
+    margin-top: 5px;
+
+    padding: 10px 10px;
+    width: 300px;
+    display: inline-block;
+    border: 1px solid;
+    border-width: 1px;
+}
+.yes{
+    margin-top: 10px;
+}
+.no{
+    margin-left: 1px;
+}
+.w{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    width: 350px;
+}
+.add{
+    width: 350px;
+}
+.e{
+  display: inline-block;        /* makes each .e sit side by side */
+  text-align: left;           /* centers the text inside each box */
+  margin: 10px;                 /* adds space between each box */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* soft shadow */
+  border-radius: 10px;          /* rounded corners */
+  width: 150px;                /* fixed width for all boxes */
+  background-color: #fff;       /* white background */
+  padding: 10px;                /* space inside each box */
+  /* vertical-align: top;   */
+}
+.one{
+    width: 100px;
+    display: inline-block;
+}
+.abubakar{
+    text-align: left;
+    font-family: Arial;
+    font-size: 10px;
+    width: 150px;
+    margin-bottom: 5px;
+    font-style: normal;
+    margin-right: 10px;
+    
+    /* display: inline-block; */
+}
+.mutual{
+    margin-bottom: 4px;
+    margin-top: 1px;
+    color: gray;
+    width: 200px;
+
+}
+.add-friend{
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    /* width: 200; */
+    border: none;
+    border-radius: 6px;
+    padding: 10px 10px;
+    vertical-align: middle;
+
+}
+.r{
+    text-align: center;
+}
+.g{
+    color: paleturquoise;
+}
+.google{
+    margin-bottom: 20px;
+    font-size: 18px;
+    width: 400px;
+    border-radius: 50px;
+    border-width: 1px;
+    margin-bottom: 10px;
+    box-shadow: none;
+}
+.google-search{
+    margin-top: 30px;
+    background-color: gray;
+    color: white;
+    padding: 10px 10px;
+    border-width: 1px;
+    border-radius: 10px;
+    border: none;
+    margin-right: 20px;
+}
+.lucky{
+    background-color: gray;
+    color: white;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 10px;
+    margin-right: 20px;
+}
