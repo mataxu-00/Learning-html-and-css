@@ -1,0 +1,98 @@
+.body{
+    height: 10000px;
+}
+.a{
+margin-top: 40px;
+display: inline-block;
+}
+.b{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+.c{
+    display: inline-block;
+    margin-left: 15px;
+    align-items: center;
+}
+.d{
+    font-size: 15px;
+    display: inline-block;
+    font-family: Arial;
+    font-weight: bold;
+}
+.e{
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: bold;
+}
+.f{
+    font-family: Arial;
+    
+    font-size: 12px;
+}
+.g{
+    margin-left: 90px;
+    font-family: Arial,;
+    font-size: 13px;
+    color: rgb(96, 96, 96);
+    display: inline-block;
+}
+.inboxes{
+    color: rgb(96, 96, 96);
+}
+.one{
+    display: inline-block;
+}
+.two{
+    width: 100px;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
+.three{
+    display: inline-block;
+}
+.four{
+    display: inline-block;
+    margin-right: 7px;
+}
+.five{
+    width: 400px;
+}
+.six{
+
+}
+.seven{
+}
+.eight{
+    display: inline-block;
+    width: 150px;
+    height: 100px;
+    margin-left: 100px;
+    vertical-align: middle;
+    border-radius: 8px;
+    background-color: rgb(96, 96, 96);
+}
+.nine{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 5px;
+    color: rgb(96, 96, 96);
+}
+.ten{
+    margin-left: 5px;
+    width: 250px;
+    margin-bottom: 15px;
+}
+.eleven{
+    display: inline-block;
+    color: rgb(96, 96, 96);
+}
+.twelve{
+    background-color: whitesmoke;
+    height: 110px;
+    margin-left: -8px;
+    vertical-align: middle;
+    display: inline-block;
+}

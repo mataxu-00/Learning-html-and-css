@@ -1,0 +1,107 @@
+.one{
+    margin-left: 3px;
+    vertical-align: top;
+    display: inline-block;
+}
+.two{
+    width: 60px;
+    border-radius: 60px;
+}
+.three{
+    margin-left: 10px;
+    display: inline-block;
+}
+.four{
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+}
+.five{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+}
+.six{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+}
+.seven{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.eight{
+    background-color: lightblue;
+    border: none;
+    height: 30px;
+    width: 50px;
+}
+.eleven{
+    display: inline-block;
+}
+.twelve{
+    width: 80px;
+}
+.thirteen{
+    /* vertical-align: middle; */
+    display: inline-block;
+}
+.fourteen,
+.fifteen,
+.sixteen{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 21px;
+
+}
+.fourteen{
+    line-height: 15px;
+    width: 280px;
+}
+.fifteen{
+    color: rgb(96, 96, 96);
+    font-size: 13px;
+}
+.sixteen{
+    color: rgb(96, 96, 96);
+    font-size: 13px;
+}
+.a{
+    display: inline-block;
+    
+}
+.b{
+    width: 100px;
+    
+}
+.c{
+    display: inline-block;
+}
+.d{
+    font-family: Arial;
+    font-weight: bold;
+    display: inline;
+    margin-bottom: 5px;
+
+}
+.e{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: rgb(96, 96, 96);
+    font-size: 15px;
+}
+.f{
+    width: 80px;
+    height: 30px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: lightcoral;
+}
+.g{
+    height: 30px;
+    border-radius: 15px;
+    width: 30px;
+    margin-bottom: 10px;
+}
